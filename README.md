@@ -5,7 +5,7 @@ This is a simple interest calculator that calculates interest on a principal amo
 ## How to use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-interest-calculator.git
+    git clone https://github.com/muhammedShadi/simple-interest-calculator.git
     ```
 2. Run the program:
     ```bash
