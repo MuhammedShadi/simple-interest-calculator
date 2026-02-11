@@ -14,3 +14,4 @@ This is a simple interest calculator that calculates interest on a principal amo
 
 ## Formula:
 The formula used for calculating simple interest is:
+
